@@ -17,6 +17,7 @@ import java.util.logging.Logger;
 public class MainController {
     
     
+    
      private static final String PAGE = "https://www.york.ac.uk/teaching/cws/wws/webpage1.html";
     
     public static void printConsolePage() {
